@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ambito_pucallpa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "test": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -75.712857313752139, -9.055851341105324 ], [ -75.662073698621185, -9.044566093298446 ], [ -75.616932707393673, -9.219487434305062 ], [ -75.673358946428067, -9.23077268211194 ], [ -75.712857313752139, -9.055851341105324 ] ] ] ] } }
+]
+}
